@@ -1,5 +1,9 @@
 # console_js_demo
 
-Это демонстрационный проект по работе с JavaScript в консоли
+Это демонстрационный проект по работе с JavaScript в консоли, содержит линтер, nodemon и команду start,  запускающую файл ./src/index.js
 
-mkdir $(date +%Y%m%d_%H%M%S) && cd $_ && 
+Вот типовая команда для 
+
+```
+mkdir $(date +%Y%m%d_%H%M%S) && cd $_ && git clone https://github.com/GossJS/console_js_demo.git . && yarn && atom .
+```
