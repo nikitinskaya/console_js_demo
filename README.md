@@ -7,3 +7,6 @@
 ```
 cd && mkdir $(date +%Y%m%d_%H%M%S) && cd $_ && git clone https://github.com/GossJS/console_js_demo.git . && yarn && atom .
 ```
+
+
+https://kodaktor.ru/g/console_js_demo
